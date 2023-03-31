@@ -10,7 +10,7 @@ Aplicación de Windows Forms, programada en C#, que cumple el fin de calcular el
 * [LinkedIn](https://www.linkedin.com/in/herreraaugusto/)
 
 ## Ver ejemplo en vivo 
-_En Desarrollo_
+_En desarrollo_
 
 ## Instalación 
 Clonar el repositorio, preferentemente en Visual Studio, y compilarlo para su ejecución.
