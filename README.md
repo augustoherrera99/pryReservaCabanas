@@ -2,7 +2,7 @@
 
 ## Descripción 🏝
 
-Aplicación de Windows Forms, programado en C#, que cumple el fin de calcular el precio de reserva de una cabaña, de acuerdo a los diferentes combos, adicionales y forma de pago para elegir.
+Aplicación de Windows Forms, programada en C#, que cumple el fin de calcular el precio de reserva de una cabaña, de acuerdo a los diferentes combos, adicionales y forma de pago para elegir.
 
 ## Autor ✒️
 **Augusto Herrera**
